@@ -1,0 +1,1089 @@
+Bitcoin
+بیت کوین
+BTC
+Ethereum
+اتریوم
+ETH
+Tether
+تتر
+USDT
+Binance Coin
+بایننس کوین
+BNB
+Cardano
+کاردانو
+ADA
+XRP
+بیت‌کوین
+ریپل
+XRP
+USD Coin
+یو اس دی کوین
+USDC
+Dogecoin
+دوج کوین
+DOGE
+Polkadot
+پولکادات
+DOT
+Binance USD
+دلار بایننس
+BUSD
+Uniswap
+یونی سواپ
+UNI
+Bitcoin Cash
+بیت کوین کش
+BCH
+Litecoin
+لایت کوین
+LTC
+Chainlink
+چین لینک
+LINK
+Solana
+سولانا
+SOL
+Wrapped Bitcoin
+
+WBTC
+Polygon
+پالی‌گان (ماتیک سابق)
+MATIC
+Ethereum Classic
+اتریوم کلاسیک
+ETC
+Stellar
+استلار
+XLM
+Dai
+دای
+DAI
+THETA
+تتا
+THETA
+Internet Computer
+اینترنت کامپیوتر (دفینیتی)
+ICP
+VeChain
+وی چین
+VET
+Filecoin
+فایل کوین
+FIL
+TRON
+ترون
+TRX
+Monero
+مونرو
+XMR
+Aave
+آوی
+AAVE
+Terra
+لونا
+LUNA
+EOS
+ایاس
+EOS
+Crypto.com Coin
+کریپتو
+CRO
+Amp
+آمپ
+AMP
+PancakeSwap
+پنکیک سواپ
+CAKE
+FTX Token
+اف‌تی‌ایکس توکن
+FTT
+Bitcoin BEP2
+Bitcoin BEP2
+BTCB
+UNUS SED LEO
+لئو
+LEO
+Algorand
+الگورند
+ALGO
+The Graph
+گراف
+GRT
+Maker
+میکر
+MKR
+Axie Infinity
+اکسی اینفینیتی
+AXS
+Cosmos
+کازماس
+ATOM
+SHIBA INU
+شیبا اینو
+SHIB
+Bitcoin SV
+ساتوشی ویژن
+BSV
+Klaytn
+کلیتن
+KLAY
+Tezos
+تزوس
+XTZ
+Neo
+نئو
+NEO
+IOTA
+آیوتا
+MIOTA
+Compound
+کامپاند
+COMP
+TerraUSD
+TerraUSD
+UST
+Avalanche
+اولنچ
+AVAX
+Theta Fuel
+تتا فیول
+TFUEL
+BitTorrent
+بیت تورنت
+BTT
+Hedera Hashgraph
+هدرا هش‌گراف
+HBAR
+Decred
+دیکرد
+DCR
+Huobi Token
+هوبی توکن
+HT
+Elrond
+الروند
+EGLD
+Waves
+ویوز
+WAVES
+Kusama
+کوزاما
+KSM
+Chiliz
+چیلیز
+CHZ
+Dash
+دش
+DASH
+NEM
+نم
+XEM
+Celsius
+سلسیوس
+CEL
+Stacks
+استکس
+STX
+TrueUSD
+
+TUSD
+Zcash
+زی کش
+ZEC
+Decentraland
+دسنترالند
+MANA
+yearn.finance
+یرن فایننس
+YFI
+Enjin Coin
+انجین کوین
+ENJ
+Helium
+هلیوم
+HNT
+Quant
+کوانت
+QNT
+SushiSwap
+سوشی سواپ
+SUSHI
+Synthetix
+سینتتیکس
+SNX
+Telcoin
+تل کوین
+TEL
+Holo
+هولو
+HOT
+OKB
+اوکی بی
+OKB
+XinFin Network
+زین‌فین نتورک
+XDC
+Flow
+فلو
+FLOW
+Paxos Standard
+پکسوس
+PAX
+Nexo
+نکسو
+NEXO
+THORChain
+ثور چین
+RUNE
+NEAR Protocol
+نیر پروتکل
+NEAR
+Zilliqa
+زیلیکا
+ZIL
+Basic Attention Token
+بت
+BAT
+Bitcoin Gold
+بیت گلد
+BTG
+KuCoin Token
+کوکوین شیرز
+KCS
+Bancor
+بنکور
+BNT
+Harmony
+هارمونی
+ONE
+SwissBorg
+SwissBorg
+CHSB
+Mdex
+ام‌دکس
+MDX
+Celo
+سلو
+CELO
+DigiByte
+دیجی بایت
+DGB
+Qtum
+کوانتوم
+QTUM
+Horizen
+هورایزن
+ZEN
+0x
+زیرو ایکس
+ZRX
+Ontology
+آنتولوژی
+ONT
+HUSD
+HUSD
+HUSD
+Curve DAO Token
+کرو دائو توکن
+CRV
+Siacoin
+سیا کوین
+SC
+Revain
+ریون
+REV
+Ravencoin
+ریون کوین
+RVN
+ICON
+آیکون
+ICX
+Fantom
+فانتوم
+FTM
+Nano
+نانو
+NANO
+OMG Network
+اومیسه گو
+OMG
+BakeryToken
+بیکری توکن
+BAKE
+UMA
+اوما
+UMA
+Ankr
+آنکر
+ANKR
+renBTC
+
+RENBTC
+The Sandbox
+سندباکس
+SAND
+Voyager Token
+اتوس
+VGX
+Neutrino USD
+Neutrino USD
+USDN
+1inch
+وان اینچ
+1INCH
+Reserve Rights
+رزرو رایتس
+RSR
+Kava.io
+کاوا
+KAVA
+IOST
+آی او اس تی
+IOST
+Golem
+گولم
+GLM
+Ren
+رِن
+REN
+Verge
+ورج
+XVG
+Bitcoin Diamond
+بیت کوین دایموند
+BCD
+Gemini Dollar
+دلار جمینای
+GUSD
+Lisk
+لیسک
+LSK
+WazirX
+وزیر اکس
+WRX
+Arweave
+آرویو
+AR
+MaidSafeCoin
+میدسیف کوین
+MAID
+Augur
+آگر
+REP
+Livepeer
+لایو پیر
+LPT
+Gnosis
+
+GNO
+Kyber Network Crystal Legacy
+کایبر نتورک
+KNC
+WAX
+وکس
+WAXP
+Loopring
+لوپرینگ
+LRC
+Venus
+ونوس
+XVS
+Nervos Network
+نروس نتورک
+CKB
+SKALE Network
+اسکیل نتورک
+SKL
+WINkLink
+وینک
+WIN
+ASD
+بیتمکس توکن
+BTMX
+Storj
+استورج
+STORJ
+Ocean Protocol
+اوشن پروتکل
+OCEAN
+Mina
+Mina
+MINA
+MediBloc
+MediBloc
+MED
+Wootrade
+وو ترید
+WOO
+GateToken
+گیت توکن
+GT
+Fetch.ai
+فچ ای‌آی
+FET
+Origin Protocol
+اوریجین پروتکل
+OGN
+Dent
+دنت
+DENT
+Constellation
+Constellation
+DAG
+Status
+استاتوس
+SNT
+TomoChain
+تومو چین
+TOMO
+VeThor Token
+VeThor Token
+VTHO
+Stratis
+استراتیس
+STRAX
+Alpha Finance Lab
+آلفا فایننس لب
+ALPHA
+Prometeus
+پرومتئوس
+PROM
+Ontology Gas
+آنتولوژی گس
+ONG
+Band Protocol
+بند پروتکل
+BAND
+iExec RLC
+
+RLC
+Numeraire
+
+NMR
+Civic
+سیویک
+CVC
+Unibright
+یونی برایت
+UBT
+Bitcoin Standard Hashrate Token
+
+BTCST
+Swipe
+سوایپ
+SXP
+MyNeighborAlice
+آلیس
+ALICE
+Energy Web Token
+انرژی وب توکن
+EWT
+Orchid
+اورکید
+OXT
+Conflux Network
+Conflux Network
+CFX
+IoTeX
+آیوتکس
+IOTX
+Reef
+ریف
+REEF
+Injective Protocol
+اینجکتیو پروتکل
+INJ
+StormX
+استورم
+STMX
+ABBC Coin
+ABBC Coin
+ABBC
+Ergo
+ارگو
+ERG
+Steem
+استیم
+STEEM
+Ampleforth
+امپل فورث
+AMPL
+Strike
+Strike
+STRK
+SingularityNET
+سینگولاریتی‌ نت
+AGIX
+Ardor
+آردور
+ARDR
+FUNToken
+فان توکن
+FUN
+Ultra
+اولترا
+UOS
+NKN
+ان کی ان
+NKN
+Serum
+سروم
+SRM
+Chromia
+کرومیا
+CHR
+Orbs
+اوربز
+ORBS
+Cartesi
+کارتزی
+CTSI
+Celer Network
+سلر نتورک
+CELR
+MVL
+MVL
+MVL
+Small Love Potion
+Small Love Potion
+SLP
+Polymath
+پلی مث
+POLY
+Uquid Coin
+Uquid Coin
+UQC
+Aragon
+آراگون
+ANT
+ZKSwap
+زی‌کی‌سواپ
+ZKS
+RSK Infrastructure Framework
+ریف توکن
+RIF
+Hive
+هایو
+HIVE
+MCO
+کریپتو دات‌کام
+MCO
+ZB Token
+ZB Token
+ZB
+Phala Network
+فالا نتورک
+PHA
+Balancer
+بالانسر
+BAL
+NuCypher
+نو سایفر
+NU
+Metadium
+متادیوم
+META
+Enzyme
+انزایم (ملون سابق)
+MLN
+Ark
+آرک
+ARK
+BitShares
+بیت شیرز
+BTS
+Hxro
+Hxro
+HXRO
+Everipedia
+اوری پدیا
+IQ
+HEX
+هگز
+HEX
+botXcoin
+botXcoin
+BOTX
+Wrapped BNB
+Wrapped BNB
+WBNB
+Fei Protocol
+فی‌ پروتکل
+FEI
+Counos X
+
+CCXX
+SafeMoon
+SafeMoon
+SAFEMOON
+stETH (Lido)
+stETH (Lido)
+STETH
+Huobi BTC
+Huobi BTC
+HBTC
+Creditcoin
+کردیت کوین
+CTC
+The Transfer Token
+ترنسفر توکن
+TTT
+INO COIN
+اینو کوین
+INO
+WhiteCoin
+وایت کوین
+XWC
+Liquity USD
+Liquity USD
+LUSD
+DeFiChain
+دیفای چین
+DFI
+Symbol
+Symbol
+XYM
+yOUcash
+یو کش
+YOUC
+NXM
+ان اکس ام
+NXM
+Venus BNB
+Venus BNB
+vBNB
+Pirate Chain
+پایرت چین
+ARRR
+Bitcoin Cash ABC
+
+BCHA
+Zelwin
+زلوین
+ZLW
+ECOMI
+اکومی
+OMI
+Perpetual Protocol
+Perpetual Protocol
+PERP
+TitanSwap
+تایتان سواپ
+TITAN
+Orbit Chain
+اوربیت چین
+ORC
+HedgeTrade
+هج ترید
+HEDG
+Bitpanda Ecosystem Token
+Bitpanda Ecosystem Token
+BEST
+Pundi X[new]
+پاندی ایکس
+PUNDIX
+Alien Worlds
+Alien Worlds
+TLM
+Frax
+Frax
+FRAX
+Mirror Protocol
+میرور پروتکل
+MIR
+Dawn Protocol
+دان پروتکل
+DAWN
+Coin98
+Coin98
+C98
+KOK
+KOK
+KOK
+sUSD
+sUSD
+SUSD
+Persistence
+Persistence
+XPRT
+Akash Network
+Akash Network
+AKT
+Sologenic
+سولوژنیک
+SOLO
+Doctors Coin
+Doctors Coin
+DRS
+Raydium
+ریدیوم
+RAY
+Toko Token
+Toko Token
+TKO
+Anchor Protocol
+Anchor Protocol
+ANC
+Venus BTC
+Venus BTC
+vBTC
+Electroneum
+الکترونیوم
+ETN
+Tribe
+ترایب
+TRIBE
+Sapphire
+Sapphire
+SAPP
+Gala
+Gala
+GALA
+Klever
+کلور
+KLV
+KardiaChain
+کاردیا چین
+KAI
+Orion Protocol
+اوریون پروتکل
+ORN
+Keep Network
+کیپ نتورک
+KEEP
+Audius
+آدیوس
+AUDIO
+Rakon
+راکون
+RKN
+Linear
+لینی‌‌یر
+LINA
+KLAYswap Protocol
+KLAYswap Protocol
+KSP
+Sun (New)
+Sun (New)
+SUN
+Ampleforth Governance Token
+FORTH
+Venus XVS
+ونوس
+vXVS
+LUKSO
+LUKSO
+LYXe
+MATH
+DODO
+دودو
+DODO
+Cream Finance
+کریم فایننس
+CREAM
+Venus USDC
+Venus USDC
+vUSDC
+DFI.Money
+YFII
+QuarkChain
+کوارک چین
+QKC
+JUST
+جاست
+JST
+Oasis Network
+Oasis Network
+ROSE
+آر چین
+REV
+Travala.com
+تراوالا
+AVA
+Utrust
+یو تراست
+UTK
+Elitium
+الیتیوم
+EUM
+Gitcoin
+Gitcoin
+GTC
+Illuvium
+Illuvium
+ILV
+Newscrypto
+Newscrypto
+NWC
+Velas
+ولاس
+VLX
+SafePal
+سیف پل
+SFP
+Centrality
+سنترالیتی
+CENNZ
+Badger DAO
+بجر دائو
+BADGER
+Bytecoin
+بایت کوین
+BCN
+Venus ETH
+Venus ETH
+Dero
+NewYork Exchange
+نیویورک اکسچنج
+NYE
+Sport and Leisure
+Sport and Leisure
+SNL
+Ethernity Chain
+Ethernity Chain
+ERN
+district0x
+district0x
+DNT
+Tokenlon Network Token
+Tokenlon Network Token
+LON
+MonaCoin
+مونا کوین
+MONA
+Bytom
+بایتوم
+BTM
+Syntropy
+سینتروپی
+NOIA
+Komodo
+کومودو
+KMD
+Syscoin
+سیس کوین
+SYS
+USDX [Kava]
+USDX [Kava]
+USDX
+Hathor
+Hathor
+HTR
+Trust Wallet Token
+تراست والت توکن
+TWT
+Kleros
+کلروس
+PNK
+Hifi Finance
+مین فریم
+MFT
+Power Ledger
+پاور لجر
+POWR
+Litentry
+لیتنتری
+LIT
+Alchemix
+الچمیکس
+ALCX
+Vai
+وای
+VAI
+COTI
+کوتی
+COTI
+XDB
+Oxygen
+اکسیژن
+Basid Coin
+بیسید کوین
+BASID
+Gas
+گس
+GAS
+Dego Finance
+دگو فایننس
+DEGO
+Secret
+سکرت
+SCRT
+Polkastarter
+پولکااستارتر
+POLS
+دارما کش
+DMCH
+cVault.finance
+cVault.finance
+CORE
+Loom Network
+لوم نتورک
+LOOM
+Sentinel
+سنتینل
+DVPN
+FC Barcelona Fan Token
+فن توکن بارسلونا
+BAR
+Automata Network
+Automata Network
+ATA
+Ellipsis
+Ellipsis
+EPS
+RAMP
+رمپ
+RAMP
+ankrETH
+ankrETH
+aEth
+Molecular Future
+Molecular Future
+MOF
+ReddCoin
+رد کوین
+RDD
+MXC
+Rari Governance Token
+RGT
+Akropolis
+اکروپلیس
+AKRO
+Harvest Finance
+هاروست فایننس
+FARM
+Thunder Token
+Thunder Token
+TT
+Bloomzed Loyalty Club Ticket
+Bloomzed Loyalty Club Ticket
+BLCT
+Flamingo
+فلامینگو
+FLM
+Aion
+آیون
+AION
+Hegic
+هژیک
+HEGIC
+Bella Protocol
+بلا پروتکل
+BEL
+Firo
+فایرو (زی‌کوین سابق)
+FIRO
+DAD
+DAD
+DAD
+FIO Protocol
+FIO Protocol
+FIO
+Venus BUSD
+Venus BUSD
+vBUSD
+DerivaDAO
+DerivaDAO
+DDX
+Dvision Network
+Dvision Network
+DVI
+AdEx Network
+آدکس
+ADX
+DxChain Token
+DxChain Token
+DX
+PARSIQ
+PARSIQ
+PRQ
+AXEL
+اکسل
+AXEL
+MimbleWimbleCoin
+میمبل ویمبل کوین
+MWC
+Sora
+سورا
+XOR
+Deeper Network
+Deeper Network
+DPR
+Alpha Quark Token
+Alpha Quark Token
+AQT
+Alitas
+Alitas
+ALT
+Standard Tokenization Protocol
+Standard Tokenization Protocol
+STPT
+Steem Dollars
+دلار استیم
+SBD
+StableXSwap
+StableXSwap
+STAX
+MX Token
+MX Token
+MX
+bZx Protocol
+bZx Protocol
+BZRX
+DIA
+دیا
+DIA
+CUSD
+CertiK
+سرتیک
+CTK
+QuickSwap
+کوییک‌ سواپ
+QUICK
+Bluzelle
+بلوزل
+BLZ
+میتریل
+MITH
+Venus USDT
+Everest
+Dogelon Mars
+Dogelon Mars
+ELON
+Pangolin
+پنگولین
+PNG
+Dentacoin
+دنتاکوین
+DCN
+able Governance Token: Meta (MTA)
+MTA
+JulSwap
+JulSwap
+JULD
+Pancake Bunny
+Pancake Bunny
+BUNNY
+Blocknet
+بلاک نت
+BLOCK
+Polkamarkets
+Polkamarkets
+POLK
+Everex
+اورکس
+EVX
+TurtleCoin
+TRTL
+TAU
+Odyssey
+اودیسه
+OCN
+PAINT
+Bridge Oracle
+Bridge Oracle
+BRG
+LuaSwap
+لوا
+LUA
