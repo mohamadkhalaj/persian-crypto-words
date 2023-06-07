@@ -1,7 +1,7 @@
 # persian-crypto-words
 All the Persian words related to the crypto and trade.
 
-This repository is part of the [@persian_crypto_community](https://t.me/persian_crypto_community) bot in telegram.
+This repository is part of the [@persian_crypto_community](https://t.me/persian_crypto_community) bot in telegram and this list is collected for filtering tweets related to the trade and specially cryptocurrencies.
 
 ### This lists contains
 - Major cryptocurrency names in Persian and English
